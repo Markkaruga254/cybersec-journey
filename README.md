@@ -27,4 +27,16 @@ Welcome to my cybersec grind log. I'm currently learning offensive security, eth
 
 ## 📌 Progress Tracker
 See: [progress/may-2025-log.md](progress/may-2025-log.md)
+## 🔗 TryHackMe Profile
+[Visit my TryHackMe](https://tryhackme.com/p/Markkaruga254)
+
+## 🛠️ Tools I've Used So Far
+- Nmap
+- Wireshark
+- Gobuster
+- BurpSuite
+- Nikto
+- Linux Terminal (Bash)
+
+
 
